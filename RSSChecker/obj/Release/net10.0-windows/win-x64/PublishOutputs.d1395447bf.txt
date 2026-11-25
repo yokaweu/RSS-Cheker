@@ -1,0 +1,2 @@
+R:\RSS\publish\RSSChecker.pdb
+R:\RSS\publish\RSSChecker.exe
